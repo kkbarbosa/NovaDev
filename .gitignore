@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dependências (caso use Node.js no futuro)
+node_modules/
+
+# Variáveis de ambiente
+.env
